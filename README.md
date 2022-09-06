@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently not working on anything, I'm looking for work opportunity.
+- 🔭 I'm looking for work opportunity.
 - 🌱 I’m currently learning DDD, Layered Architecture, TDD, Serverless Framework, NoSQL (DynamoDB)
 - 💬 Ask me about any tech related problems!
 - ☕️ I love brewing coffee with an Aeropress every morning
